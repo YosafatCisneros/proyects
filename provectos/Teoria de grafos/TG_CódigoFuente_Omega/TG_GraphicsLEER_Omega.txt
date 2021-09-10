@@ -1,0 +1,6 @@
+Si no se cuenta con la librería graphics.h, en el momento de compilar marcará errores.
+En esta carpeta se encuentran las herramientas necesarias para evitar la descarga de internet.
+Para esto se necesitará instalar la librería antes mencionada.
+Con este link a un vídeo de YouTube se conduce a un tutorial explicado a detalle del proceso de instalación.
+
+https://www.youtube.com/watch?v=cK9pmJdTK9Y&feature=youtu.be

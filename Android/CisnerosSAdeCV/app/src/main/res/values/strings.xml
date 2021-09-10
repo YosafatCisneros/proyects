@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cisneros SA de CV</string>
+
+    <string name="nombre">Nombre del paciente</string>
+    <string name="costo">Costo por dia</string>
+    <string name="dias">Dias de hospitalizacion</string>
+    <string name="tnombre"></string>
+    <string name="tcosto"></string>
+    <string name="tdias"></string>
+    <string name="form">Calcular</string>
+
+    <string name="selecciona">Selecciona Imagen de visor</string>
+</resources>

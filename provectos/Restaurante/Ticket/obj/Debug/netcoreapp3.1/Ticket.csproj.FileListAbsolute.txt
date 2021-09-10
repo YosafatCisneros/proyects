@@ -1,0 +1,13 @@
+C:\Users\yosaf\source\repos\Ticket\Ticket\bin\Debug\netcoreapp3.1\Ticket.exe
+C:\Users\yosaf\source\repos\Ticket\Ticket\bin\Debug\netcoreapp3.1\Ticket.deps.json
+C:\Users\yosaf\source\repos\Ticket\Ticket\bin\Debug\netcoreapp3.1\Ticket.runtimeconfig.json
+C:\Users\yosaf\source\repos\Ticket\Ticket\bin\Debug\netcoreapp3.1\Ticket.runtimeconfig.dev.json
+C:\Users\yosaf\source\repos\Ticket\Ticket\bin\Debug\netcoreapp3.1\Ticket.dll
+C:\Users\yosaf\source\repos\Ticket\Ticket\bin\Debug\netcoreapp3.1\Ticket.pdb
+C:\Users\yosaf\source\repos\Ticket\Ticket\obj\Debug\netcoreapp3.1\Ticket.csprojAssemblyReference.cache
+C:\Users\yosaf\source\repos\Ticket\Ticket\obj\Debug\netcoreapp3.1\Ticket.AssemblyInfoInputs.cache
+C:\Users\yosaf\source\repos\Ticket\Ticket\obj\Debug\netcoreapp3.1\Ticket.AssemblyInfo.cs
+C:\Users\yosaf\source\repos\Ticket\Ticket\obj\Debug\netcoreapp3.1\Ticket.csproj.CoreCompileInputs.cache
+C:\Users\yosaf\source\repos\Ticket\Ticket\obj\Debug\netcoreapp3.1\Ticket.dll
+C:\Users\yosaf\source\repos\Ticket\Ticket\obj\Debug\netcoreapp3.1\Ticket.pdb
+C:\Users\yosaf\source\repos\Ticket\Ticket\obj\Debug\netcoreapp3.1\Ticket.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">sesion28Cisneros</string>
+
+    <string name="tvTitulo">Hospital Cisneros</string>
+    <string name="txtMatricula">Matricula</string>
+    <string name="txtNombre">Nombre del paciente</string>
+    <string name="txtCosto">Costo por dia</string>
+    <string name="txtDias">Dias hospitalizado</string>
+    <string name="txtDescuento">Descuento</string>
+    <string name="btnAlta">Alta</string>
+    <string name="btnConsulta">Consulta</string>
+</resources>

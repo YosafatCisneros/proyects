@@ -1,0 +1,35 @@
+Cafeteria
+ID: 000001
+Fecha: 03/07/2020 06:48:27 p. m.
+Mesero: 3
+Mesa: 2
+Producto/precio:
+a		$100
+b		$200
+Total de alimentos: $300
+Descuento: 0%
+iva: 10%
+Total a pagar: $330
+Efectivo: $1000
+cambio: $670
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

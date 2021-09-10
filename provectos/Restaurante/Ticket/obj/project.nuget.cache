@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDtgsecBsFFxUpfkkeb8s4RoLW2zmSA6i8QDLAJtCzw0SVkGytvvHLxG2wIZ31aqdREof0WrkTPXac3j3PmXaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yosaf\\source\\repos\\Ticket\\Ticket\\Ticket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yosaf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

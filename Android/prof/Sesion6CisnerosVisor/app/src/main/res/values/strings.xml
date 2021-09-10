@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sesion16TovarPDMVisor</string>
+
+    <string name="visor">VISOR</string>
+    <string name="img1"></string>
+    <string name="img2"></string>
+    <string name="img3"></string>
+    <string name="img4"></string>
+    <string name="img5"></string>
+
+    <string name="selecciona">Selecciona Imagen de visor</string>
+</resources>

@@ -1,0 +1,4 @@
+Escribir coeficiente de A: Escribir coeficiente de B: Escribir coeficiente de C: 
+ El coeficiente de x usando raiz positiva: (-  10.000000  +  (100.000000  -  5.000000))/25.000000=-1.#IND00
+
+El coeficiente de x usando raiz negativa: (-10.000000-(100.000000-5.000000))/25.000000=-1.#IND00

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Le Petit Moulin</string>
+    <string name="hint_nombre">Nombre del pastel:</string>
+    <string name="hint_fechap">Fecha de preparacion:</string>
+    <string name="hint_fechac">Fecha de caducidad:</string>
+    <string name="hint_cantidad">Cantidad:</string>
+    <string name="hint_etiqueta">Etiqueta:</string>
+    <string name="btn_guarda">Guardar pasteles</string>
+    <string name="menu_nuevo">Registrar pasteles</string>
+</resources>
